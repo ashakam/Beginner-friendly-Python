@@ -1,5 +1,5 @@
 Computers – A collection of hardware and Software components.   
-  Hardware – Physical electronic components of a computer. Eg. Keyboard, CPU, monitor, printer, etc..  
+  -  Hardware – Physical electronic components of a computer. Eg. Keyboard, CPU, monitor, printer, etc..  
   Software – It is a program or set of instructions to carry out a specific task or achieve a specific work goal. Eg. Program written for calculating the Simple Interest   
   Computer Components – Physical structure of a Computer  
     Input Unit- Input devices attached to the computer system makes the Input unit.takes input to the computer.  
