@@ -1,17 +1,57 @@
-Computers – A collection of hardware and Software components.   
-  -  Hardware – Physical electronic components of a computer. Eg. Keyboard, CPU, monitor, printer, etc..  
-  -  Software – It is a program or set of instructions to carry out a specific task or achieve a specific work goal. Eg. Program written for calculating the Simple Interest   
-  Computer Components – Physical structure of a Computer  
-    -  Input Unit - Input devices attached to the computer system makes the Input unit.takes input to the computer.  
-    -  Output Unit - Output devices attached to the computer system makes the Output unit.produces information as output for the computer.  
-    -  Central Processing Unit - processes the data and instructions.    
-    -  Arithmetic and Logic Unit - carries out arithmetic instructions and make logical decisions.Eg. Arithmetic Instructions are Add, subtract, multiply, divide. Logical decisions are greater than, less than, equal to.
-    -  Control Unit - controls and supervises the processing.  
-    -  Primary Memory - Internal, Volatile memory  
-    -  Secondary Memory / Secondary Storage Unit - External, Non-Volatile/Permanent storage - Ex. Hard Disk,Compact Disk,Flash memory,Blue Ray Disk  
-    -  Cache Memory  
-  Types of Software  
-    System Software - Ex. Operating System,Language Processors,Device Drivers  
-        -  Language Processors / Translators - computer software that translates the source code into object code or machine code. Ex. Interpreter, Assembler, Compiler  
-    Application Software - Ex. Word Processors,Spreadsheets,Presentation Software,Databases,Graphic Design Software  
-  
+# Computers
+
+A computer is a collection of hardware and software components.
+
+## Hardware
+Physical electronic components of a computer.  
+**Examples:** Keyboard, CPU, Monitor, Printer, etc.
+
+## Software
+A program or set of instructions used to carry out a specific task or achieve a specific goal.  
+**Example:** A program written to calculate Simple Interest.
+
+---
+
+# Computer Components
+
+## Input Unit
+Input devices attached to the computer system form the input unit (e.g., keyboard, mouse).  
+They provide data to the computer.
+
+## Output Unit
+Output devices attached to the computer system form the output unit (e.g., monitor, printer).  
+They produce information as output.
+
+## Central Processing Unit (CPU)
+Processes data and instructions.
+
+### Arithmetic and Logic Unit (ALU)
+- Carries out arithmetic operations: add, subtract, multiply, divide  
+- Performs logical decisions: greater than, less than, equal to
+
+### Control Unit (CU)
+- Controls and supervises all processing activities
+
+## Primary Memory
+- Internal, volatile memory
+
+## Secondary Memory / Storage Unit
+- External, non-volatile / permanent storage  
+- **Examples:** Hard Disk, Compact Disk (CD), Flash Memory, Blu-ray Disk
+
+## Cache Memory
+- High-speed memory used to speed up processing
+
+---
+
+# Types of Software
+
+## System Software
+- **Examples:** Operating System, Language Processors, Device Drivers
+
+## Language Processors / Translators
+Software that translates source code into object code or machine code.  
+**Examples:** Interpreter, Assembler, Compiler
+
+## Application Software
+- **Examples:** Word Processors, Spreadsheets, Presentation Software, Databases, Graphic Design Software
