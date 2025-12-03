@@ -49,7 +49,7 @@ Processes data and instructions.
 ## System Software
 - **Examples:** Operating System, Language Processors, Device Drivers
 
-## Language Processors / Translators
+### Language Processors / Translators
 Software that translates source code into object code or machine code.  
 **Examples:** Interpreter, Assembler, Compiler
 
